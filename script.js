@@ -103,7 +103,7 @@ function restartGame() {
     gamePattern = [];
     gameStarted = false;
     level = 0;
-    actualLevel = 0;
+    actualLevel = 1;
 }
 
 playGame();
